@@ -1,0 +1,15 @@
+.container {
+  width: 150px;
+  height: 300px;
+  border-radius: 20px;
+  background-color: #206cb8;
+  display: flex;
+  padding: 10px 5px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.conditionText {
+  text-align: center;
+  height: 50px;
+}
